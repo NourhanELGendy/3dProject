@@ -58,7 +58,7 @@ void display (void)
 
     glutSwapBuffers();
 }
-//--------------------------------Pyramid 1 Function---------------------------
+//--------------------------------Pyramid  Function---------------------------
 void pyramid1(){
      glPushMatrix ();
     //glRotatef       (60.0, 0,1,0);
